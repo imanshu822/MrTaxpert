@@ -162,8 +162,8 @@ const Footer = () => {
         <div className="flex flex-col items-center justify-center w-100 lg:w-1/4 lg:items-start">
           <h1 className="text-4xl font-bold text-center">MrTaxpert</h1>
           <p className="text-sm text-center lg:text-left mt-4">
-            Have questions or need assistance? We're here to help. Reach out to
-            us through the following channels:
+            Have questions or need assistance? We&apos;re here to help. Reach
+            out to us through the following channels:
           </p>
           <br />
           <p className="text-sm text-center lg:text-left"></p>
