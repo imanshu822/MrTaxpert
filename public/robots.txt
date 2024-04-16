@@ -1,0 +1,10 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.mrtaxpert.com
+
+# Sitemaps
+Sitemap: https://www.mrtaxpert.com/sitemap.xml
+Sitemap: https://www.mrtaxpert.com/api/server-sitemap.xml
